@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Flask
+instance/
+*.log
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# pytest
+.cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Flask-Caching
+*.dat
+
+# SQLite
+*.sqlite
+*.sqlite3
